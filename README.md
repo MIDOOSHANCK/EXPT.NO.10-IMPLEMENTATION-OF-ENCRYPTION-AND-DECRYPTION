@@ -14,7 +14,7 @@ PC with Linux operating system
 6]	The encrypted form of the message is displayed.
 7]	The decrypted form is also displayed as final output. 8] Thus the output is obtained.
 ```
-# PROGRAM:
+# PROGRAM: 
 ```
 #include<stdio.h> #include<stdlib.h> #include<math.h> #include<string.h>
 longintp,q,n,t,flag,e[100],d[100],temp[100],j,m[100],en[100],i; char msg[100];
